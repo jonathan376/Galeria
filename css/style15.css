@@ -62,7 +62,7 @@ p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 75%;
     margin-top: 20px;
-    margin-left: 550px;
+    margin-left: 510px;
 }
 .Obras{
     background-color:0;
@@ -80,7 +80,7 @@ p{
     background-image: url("../imagenes/centauromaquia.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-top: 900px;
+    margin-top: 1050px;
     border-radius: 50px;
     float: left;
 }
@@ -101,7 +101,7 @@ p{
     background-image: url("../imagenes/la-piedad.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-top: 900px;
+    margin-top: 1050px;
     border-radius: 50px;
     float: left;
 }
