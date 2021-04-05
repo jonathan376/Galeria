@@ -60,9 +60,9 @@ p{
     color:darkred;
     font-size: 35px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    width: 65%;
+    width: 85%;
     margin-top: 20px;
-    margin-left: 610px;
+    margin-left: 380px;
 }
 .Obras{
     background-color:0;
@@ -80,7 +80,7 @@ p{
     background-image: url("../imagenes/la-anunciacion.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-top: 1320px;
+    margin-top: 1130px;
     border-radius: 50px;
     float: left;
 }
@@ -101,7 +101,7 @@ p{
     background-image: url("../imagenes/ginevra-de-benci.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-top: 1320px;
+    margin-top: 1130px;
     border-radius: 50px;
     float: left;
 }
