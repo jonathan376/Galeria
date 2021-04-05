@@ -62,7 +62,7 @@ p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 80%;
     margin-top: 20px;
-    margin-left: 480px;
+    margin-left: 440px;
 }
 .Obras{
     background-color:0;
@@ -80,7 +80,7 @@ p{
     background-image: url("../imagenes/El\ Rosario\ de\ la\ Aurora.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-top: 470px;
+    margin-top: 530px;
     border-radius: 50px;
     float: left;
 }
@@ -97,11 +97,11 @@ p{
 .cont2{
     width: 40%;
     height: 250px;
-    margin-left: 40px;
+    margin-left: 120px;
     background-image: url("../imagenes/Group\ of\ Figures.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-top: 470px;
+    margin-top: 530px;
     border-radius: 50px;
     float: left;
 }
