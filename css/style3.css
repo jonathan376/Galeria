@@ -80,7 +80,7 @@ p{
     background-image: url("../imagenes/La\ familia\ de\ Felipe\ IV.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-top: 440px;
+    margin-top: 490px;
     border-radius: 50px;
     float: left;
 }
@@ -101,7 +101,7 @@ p{
     background-image: url("../imagenes/triunfo-baco-borrachos.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-top: 440px;
+    margin-top: 490px;
     border-radius: 50px;
     float: left;
 }
@@ -139,7 +139,7 @@ p{
 .cont4{
     width: 40%;
     height: 250px;
-    margin-left: 20px;
+    margin-left: 120px;
     background-image: url("../imagenes/adoracion-reyes.jpg");
     background-size: contain;
     background-repeat: no-repeat;
