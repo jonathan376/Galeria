@@ -62,7 +62,7 @@ p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 80%;
     margin-top: 20px;
-    margin-left: 480px;
+    margin-left: 440px;
 }
 .Obras{
     background-color:0;
@@ -80,7 +80,7 @@ p{
     background-image: url("../imagenes/Ingres\,_Napoleon_on_his_Imperial_throne.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-top: 770px;
+    margin-top: 910px;
     border-radius: 50px;
     float: left;
 }
@@ -97,11 +97,11 @@ p{
 .cont2{
     width: 40%;
     height: 250px;
-    margin-left: 20px;
+    margin-left: 100px;
     background-image: url("../imagenes/Júpiter_y_Tetis.jpg");
     background-size: contain;
     background-repeat: no-repeat;
-    margin-top: 770px;
+    margin-top: 910px;
     border-radius: 50px;
     float: left;
 }
@@ -181,7 +181,7 @@ p{
 .cont6{
     width: 40%;
     height: 250px;
-    margin-left: 20px;
+    margin-left: 120px;
     background-image: url("../imagenes/Jean_auguste_dominique_ingres-the_source_-_-.jpg");
     background-size: contain;
     background-repeat: no-repeat;
