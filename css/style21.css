@@ -52,88 +52,380 @@ float: left;
     
     background-color: 0;
 }
-fieldset{
-    margin-left: auto;
-    margin-right: auto;
+.cont{
+    width: 40%;
+    height: 220px;
+    margin-left: 10px;
+    background-image: url("../imagenes/barroco.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 5px;
+    border-radius: 50px;
+    float: left;
+}
+.Barroco{
+    background-color:0;
+    color:#fff;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 70%;
-    background-color: brown;
-    border: 0;
-}
-.legend{
-    color:azure;
-    font-weight: bold;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;
-    margin-top: 50px;
-    text-decoration-style: none;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
-[type="text"]{
+    margin-top: 5px;
+    margin-left: 280px;
     display: block;
-    color:azure;
-    font-weight: bold;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px;
-    width: 60%;
-    height: 25px;
-    margin: auto;
-    margin-top: 50px;
-    background-color: transparent;
-    border: 0;
-    border-bottom: 1px solid burlywood;
 }
-[type="number"]{
-    display: block;
-    color:azure;
-    font-weight: bold;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.Barroco1{
+    background-color:0;
+    color:#fff;
     font-size: 20px;
-    width: 60%;
-    height: 25px;
-    margin: auto;
-    margin-top: 50px;
-    background-color: transparent;
-    border: 0;
-    border-bottom: 1px solid burlywood;
+    font-style: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 70%;
+    margin-top: 5px;
+    margin-left: 280px;
+    display: block;
+}
+.nav1{
+    background-color:0;
+    float:left;
+}
+.ul1{
+    background-color:0;
+    float: left;
+}
+.li1{
+    background-color:0;
+    margin-top: 2px;
+    display: inline;
+    float: left;
+}
+.a1{
+    color:#fff;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-left: 240px;
+}
+.li2{
+    background-color:0;
+    margin-top: 2px;
+    display: inline;
+    float: left;
+}
+.a2{
+    color:#fff;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-left: 240px;
+}
+.cont1{
+    width: 40%;
+    height: 200px;
+    margin-left:750px;
+    background-image: url("../imagenes/clasismo.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 150px;
+    border-radius: 20px;
+}
+.Clasismo{
+    background-color:0;
+    color:#fff;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50%;
+    margin-top: 2px;
+    margin-left: 280px;
+    float: left;
+}
+.Clasismo1{
+    background-color:0;
+    color:#fff;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50%;
+    margin-top: 2px;
+    margin-left: 280px;
+    float: left;
+}
+.nav2{
+    background-color:0;
+    float:left;
+}
+.ul2{
+    background-color:0;
+}
+.li3{
+    background-color:0;
+    margin-top: 0;
+    display: block;
     
 }
-[type="email"]{
-    display: block;
-    color:azure;
-    font-weight: bold;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.a3{
+    color:#fff;
     font-size: 20px;
-    width: 60%;
-    height: 25px;
-    margin: auto;
-    margin-top: 50px;
-    background-color: transparent;
-    border: 0;
-    border-bottom: 1px solid burlywood;
-    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-left: 240px;
 }
-[type="submit"]{
+.li4{
+    background-color:0;
+    margin-top: 0;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 10%;
-    margin-top: 50px;
-    border-radius: 10px;
-    border: 0;
+    
 }
-[type="date"]{
-    display: block;
-    width: 60%;
-    height: 25px;
-    margin: auto;
-    margin-top: 50px;
-    background-color: transparent;
-    border: 0;
-    border-bottom: 1px solid burlywood; 
-    color: azure; 
+.a4{
+    color:#fff;
     font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-left: 240px;
+}
+.li5{
+    background-color:0;
+    margin-top: 0;
+    display: block;
+}
+.a5{
+    color:#fff;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-left: 240px;
+}
+.cont2{
+    width: 40%;
+    height: 200px;
+    margin-left: 10px;
+    background-image: url("../imagenes/Romanticismo.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 90px;
+    border-radius: 20px;
+    float: left;
+}
+.Romantisismo{
+    background-color:0;
+    color:#fff;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 260px;
+
+}
+.Romantisismo1{
+    background-color:0;
+    color:#fff;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 80%;
+    margin-top: 2px;
+    margin-left: 260px;
+    float: left;
+}
+.nav3{
+    background-color:0;
+    float:left;
+}
+.ul3{
+    background-color:0;
+    
+}
+.li6{
+    background-color:0;
+    margin-top: 2px;
+    display: block;
+    
+}
+.a6{
+    color:#fff;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-left: 220px;
+}
+.li7{
+    background-color:0;
+    margin-top: 2px;
+    display: block;
+    float: left;
+}
+.a7{
+    color:#fff;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-left: 220px;
+}
+.li8{
+    background-color:0;
+    margin-top: 2px;
+    display: block;
+    float: left;
+}
+.a8{
+    color:#fff;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-left: 220px;
+}
+.cont3{
+    width: 40%;
+    height: 200px;
+    margin-left:740px;
+    background-image: url("../imagenes/postimpresionismo.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 240px;
+    border-radius: 20px;
+
+}
+.Postimpresionismo{
+    background-color:0;
+    color:#fff;
+    font-size: 20px;
+    font-style: Bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 60%;
+    margin-top: 5px;
+    margin-left: 280px;
+    float: left;
+}
+.Postimpresionismo1{
+    background-color:0;
+    color:#fff;
+    font-size: 20px;
+    font-style: Bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 60%;
+    margin-top: 5px;
+    margin-left: 280px;
+    float: left;
+}
+.nav4{
+    background-color:0;
+    float:left;
+}
+.ul4{
+    background-color:0;
+}
+.li9{
+    background-color:0;
+    margin-top: 2px;
+    display:block;
+}
+.a9{
+    color:#fff;
+    font-size: 20px;
+    font-style: Bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-left: 240px;
+}
+.li10{
+    background-color:0;
+    margin-top: 0;
+    display: block;
+}
+.a10{
+    color:#fff;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-left: 240px;
+}
+.li11{
+    background-color:0;
+    margin-top: 0;
+    display: block;
+    
+}
+.a11{
+    color:#fff;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-left: 240px;
+}
+.cont4{
+    width: 40%;
+    height: 230px;
+    margin-left: 10px;
+    background-image: url("../imagenes/arte-renacentista-e1571802362634.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    border-radius: 20px;
+    float: left;
+}
+.Puntillismo{
+    background-color:0;
+    color:#fff;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 60%;
+    margin-top: 5px;
+    margin-left: 250px;
+
+}
+.Puntillismo1{
+    background-color:0;
+    color:#fff;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 80%;
+    margin-top: 5px;
+    margin-left: 250px;
+
+}
+.nav4{
+    background-color:0;
+    float:left;
+}
+.ul4{
+    background-color:0;
+    float: left;
+}
+.li12{
+    background-color:0;
+    margin-top: 2px;
+    display: block
+    
+}
+.a12{
+    color:#fff;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-left: 210px;
+}
+.li13{
+    background-color:0;
+    margin-top: 2px;
+    display: block;
+    
+}
+.a13{
+    color:#fff;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-left: 210px;
+}
+.li14{
+    background-color:0;
+    margin-top: 2px;
+    display: block;
+    
+}
+.a14{
+    color:#fff;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    margin-left: 210px;
 }
 .event{
     background-color:goldenrod;
@@ -149,7 +441,7 @@ fieldset{
 }
 .event3{
     color: black;
-    font-size: 20px;
+    font-size: 30px;
     font-style: bold;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
