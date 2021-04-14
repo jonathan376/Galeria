@@ -52,7 +52,7 @@ float: left;
 .event2{
     background-color:0;
     margin-top: 0px;
-    display: inline;
+    display: inline-block;
 }
 .event3{
     color: black;
@@ -61,5 +61,4 @@ float: left;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
     margin-right: 60px;
-    
 }
