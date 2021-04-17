@@ -17,7 +17,7 @@ head{
 }
 #hea{
     background-color:gray;
-    height: 80px;
+    height: 40px;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -26,7 +26,7 @@ head{
 .contenedortl{
     background-color:goldenrod;
     width: 100%;
-    height: 100px;
+    height: 40px;
     margin-top: 0px;
     float: left;
 }
