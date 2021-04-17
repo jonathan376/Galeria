@@ -1,5 +1,5 @@
 body{
-    background-image: url("../imagenes/woman-911004_1280.jpg");
+    background-image: url("../imagenes/wood-911004_1280.jpg");
     background-size: cover;
 }
 head{
@@ -66,7 +66,7 @@ float: left;
 }
 .Barroco{
     background-color:0;
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 70%;
@@ -76,13 +76,13 @@ float: left;
 }
 .Barroco1{
     background-color:0;
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-style: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 70%;
     margin-top: 5px;
-    margin-left: 280px;
+    margin-left: 320px;
     display: block;
 }
 .nav1{
@@ -100,7 +100,7 @@ float: left;
     float: left;
 }
 .a1{
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
@@ -113,7 +113,7 @@ float: left;
     float: left;
 }
 .a2{
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
@@ -131,7 +131,7 @@ float: left;
 }
 .Clasismo{
     background-color:0;
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 50%;
@@ -141,7 +141,7 @@ float: left;
 }
 .Clasismo1{
     background-color:0;
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 50%;
@@ -163,7 +163,7 @@ float: left;
     
 }
 .a3{
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
@@ -176,7 +176,7 @@ float: left;
     
 }
 .a4{
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
@@ -188,7 +188,7 @@ float: left;
     display: block;
 }
 .a5{
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
@@ -207,7 +207,7 @@ float: left;
 }
 .Romantisismo{
     background-color:0;
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 80%;
@@ -217,7 +217,7 @@ float: left;
 }
 .Romantisismo1{
     background-color:0;
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 80%;
@@ -240,7 +240,7 @@ float: left;
     
 }
 .a6{
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
@@ -253,7 +253,7 @@ float: left;
     float: left;
 }
 .a7{
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
@@ -266,7 +266,7 @@ float: left;
     float: left;
 }
 .a8{
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
@@ -285,7 +285,7 @@ float: left;
 }
 .Postimpresionismo{
     background-color:0;
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-style: Bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -296,7 +296,7 @@ float: left;
 }
 .Postimpresionismo1{
     background-color:0;
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-style: Bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -318,7 +318,7 @@ float: left;
     display:block;
 }
 .a9{
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-style: Bold;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -331,7 +331,7 @@ float: left;
     display: block;
 }
 .a10{
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
@@ -344,7 +344,7 @@ float: left;
     
 }
 .a11{
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
@@ -363,7 +363,7 @@ float: left;
 }
 .Puntillismo{
     background-color:0;
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 60%;
@@ -373,7 +373,7 @@ float: left;
 }
 .Puntillismo1{
     background-color:0;
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 80%;
@@ -396,7 +396,7 @@ float: left;
     
 }
 .a12{
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
@@ -409,7 +409,7 @@ float: left;
     
 }
 .a13{
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
@@ -422,7 +422,7 @@ float: left;
     
 }
 .a14{
-    color:#fff;
+    color:brown;
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
