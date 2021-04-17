@@ -1,5 +1,6 @@
 body{
-    background-color: darkslateblue;
+    background-image: url("../imagenes/woman-911004_1280.jpg");
+    background-size: cover;
 }
 head{
     background-color:crimson;
