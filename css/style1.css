@@ -12,15 +12,22 @@ head{
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    float: left;
+    position: relative;
+    
 }
+#hea{
+    background-color:gray;
+    height: 80px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 
+}
 .contenedortl{
     background-color:goldenrod;
     width: 100%;
-    height: 20px;
+    height: 100px;
     margin-top: 0px;
-    position: relative;
     float: left;
 }
 .logo{
@@ -41,6 +48,10 @@ width: 100%;
 margin-left: 60px;
 float: left;
 }
+.main{
+    
+    background-color: 0;
+}
 .event{
     background-color:0;
     float:right;
@@ -51,7 +62,7 @@ float: left;
 .event2{
     background-color:0;
     margin-top: 0px;
-    display: inline-block;
+    display: inline;
 }
 .event3{
     color: black;
